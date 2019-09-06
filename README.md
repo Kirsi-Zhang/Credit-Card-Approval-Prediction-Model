@@ -1,6 +1,9 @@
 # **Credit Card Approval Prediction Model**
-Estimate a predictive model to predict whether a consumer is approved for a credit card.  
-Firms with better predictive models will be able to more efficiently target consumers, or make better purchasing decisions.
+Estimate a predictive model to predict whether a consumer is approved for a credit card.    
+*Firms with better predictive models will be able to more efficiently target consumers, or make better purchasing decisions.*    
+**First Predictive Model**: Use all the data except expenditure.    
+**Second Predictive Model**: Use all the provided independent variables, including expenditure. 
+
 
 ## **Data Guide**
 The data on real-world setting appeared in Greene, 2003.
