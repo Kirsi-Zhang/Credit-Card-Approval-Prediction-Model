@@ -1,3 +1,0 @@
-#Implement MARS using the earth function
-Data3 <- read.csv("~/Desktop/MKT436 analytics/Homework 3/Student Data 3.csv", stringsAsFactors=FALSE)
-library('earth')
